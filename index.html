@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Advanced Calculator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="calculator">
+      <div class="left-panel">
+        <button id="theme-toggle">🌙 Dark</button>
+        <input type="text" id="display" disabled />
+
+        <!-- History box -->
+        <div id="history-box" style="display: none">
+          <h3>History</h3>
+          <ul id="history-list"></ul>
+        </div>
+      </div>
+
+      <div class="buttons">
+        <!-- Row 1 -->
+        <button class="btn">7</button>
+        <button class="btn">8</button>
+        <button class="btn">9</button>
+        <button class="btn">/</button>
+        <button class="btn" id="sqrt">√</button>
+
+        <!-- Row 2 -->
+        <button class="btn">4</button>
+        <button class="btn">5</button>
+        <button class="btn">6</button>
+        <button class="btn">*</button>
+        <button class="btn" id="square">x²</button>
+
+        <!-- Row 3 -->
+        <button class="btn">1</button>
+        <button class="btn">2</button>
+        <button class="btn">3</button>
+        <button class="btn">-</button>
+        <button class="btn" id="percent">%</button>
+
+        <!-- Row 4 -->
+        <button class="btn">0</button>
+        <button class="btn">.</button>
+        <button class="btn" id="equal">=</button>
+        <button class="btn">+</button>
+        <button class="btn" id="inverse">1/x</button>
+
+        <!-- Row 5 -->
+        <button class="btn" id="sin">sin</button>
+        <button class="btn" id="cos">cos</button>
+        <button class="btn" id="tan">tan</button>
+        <button class="btn" id="backspace">⌫</button>
+        <button class="btn" id="history">History</button>
+
+        <!-- Row 6 -->
+        <button class="btn" id="clear">C</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
