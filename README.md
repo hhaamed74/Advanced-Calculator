@@ -6,10 +6,11 @@ It supports standard arithmetic operations along with some advanced features.
 ## 🚀 Features
 
 - Basic operations: `+`, `-`, `×`, `÷`
-- Advanced operations: `√`, `x²`, `%`
-- Clear (`C`) and Delete (`DEL`) functions
-- Responsive and modern UI
+- Advanced operations: `√`, `x²`, `%`, `sin`, `cos`, `tan`, `1/x`
+- Clear (`C`) and Delete (`⌫`) functions
+- Responsive and modern **UI with Dark/Light mode**
 - Highlighted **equal (=) button** for better UX
+- History log to track recent calculations
 
 ## 🎮 How to Use
 
@@ -19,9 +20,9 @@ It supports standard arithmetic operations along with some advanced features.
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Structure
-- **CSS3** – Styling & Responsive UI
-- **JavaScript (ES6)** – Functionality
+- **HTML5** – Structure  
+- **CSS3** – Styling & Responsive UI  
+- **JavaScript (ES6)** – Functionality  
 
 ## 📸 Preview
 
@@ -30,12 +31,11 @@ It supports standard arithmetic operations along with some advanced features.
 ## 🚀 Live Demo
 [Click here to try the calculator](https://hhaamed74.github.io/Advanced-Calculator/)
 
-
 ## 📌 Future Improvements
 
-- Add keyboard support
-- Add history of calculations
-- Add scientific functions (sin, cos, tan, log, etc.)
+- Add full keyboard support  
+- Export or save calculation history  
+- Add more scientific functions (log, ln, π, e, etc.)  
 
 ---
 
