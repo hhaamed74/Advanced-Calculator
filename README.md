@@ -28,7 +28,7 @@ It supports standard arithmetic operations along with some advanced features.
 ![Calculator Preview](image.png)
 
 ## 🚀 Live Demo
-[Click here to try the calculator](https://your-username.github.io/advanced-calculator/)
+[Click here to try the calculator](https://hhaamed74.github.io/Advanced-Calculator/)
 
 
 ## 📌 Future Improvements
