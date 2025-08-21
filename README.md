@@ -27,6 +27,10 @@ It supports standard arithmetic operations along with some advanced features.
 
 ![Calculator Preview](image.png)
 
+## 🚀 Live Demo
+[Click here to try the calculator](https://your-username.github.io/advanced-calculator/)
+
+
 ## 📌 Future Improvements
 
 - Add keyboard support
